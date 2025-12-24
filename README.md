@@ -1,6 +1,7 @@
-# Enhancing AI Transparency: Automating Semantic Model Card Generation and Discovery
+# Semantic Cataloging of Models using Large Language Models and Model Cards
 
-This repository hosts the codebase for a Master’s thesis project at the Jheronimus Academy of Data Science (TU/e & TiU), supervised by Dr. I.P.K. Weerasingha Dewage. Titled *Enhancing AI Transparency: Leveraging Large Language Models to Automate the Generation and Discovery of Semantic Model Cards*, the project aims to improve AI model documentation using large language models (LLMs) and knowledge graphs. It targets Machine Learning, Deep Learning, and Data Engineering, with a planned publication in *IEEE Transactions on Knowledge and Data Engineering*.
+This repository hosts the codebase for a Master’s thesis project at the Jheronimus Academy of Data Science (TU/e & TiU), supervised by Dr. I.P.K. Weerasingha Dewage. Titled *Semantic Cataloging of
+Models using Large Language Models and Model Cards*, the project aims to improve AI model documentation using large language models (LLMs) and knowledge graphs. It targets Machine Learning, Deep Learning, and Data Engineering, with a planned publication in *IEEE Transactions on Knowledge and Data Engineering*.
 
 ## Table of Contents
 
