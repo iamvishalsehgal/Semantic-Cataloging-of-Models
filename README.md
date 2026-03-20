@@ -104,4 +104,4 @@ Contributions are limited due to the thesis scope. To contribute:
 
 ## Contact Information
 
-Open an issue on [GitHub](https://github.com/iamvishalsehgal/Enhancing-AI-Transparency/issues) or contact Vishal Sehgal via v.sehgal@student.tue.nl
+Open an issue on [GitHub](https://github.com/iamvishalsehgal/Enhancing-AI-Transparency/issues) or contact Vishal Sehgal via v414@duck.com
